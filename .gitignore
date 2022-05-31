@@ -1,0 +1,10 @@
+# Project exclude paths
+/spring-cloud-alibaba-api/target/
+/spring-cloud-alibaba-config-client-3377/target/
+/spring-cloud-alibaba-consumer-mysql-8803/target/
+/spring-cloud-alibaba-provider-8001/target/
+/spring-cloud-alibaba-provider-mysql-8003/target/
+/spring-cloud-alibaba-seata-account-8007/target/
+/spring-cloud-alibaba-seata-order-8005/target/
+/spring-cloud-alibaba-seata-storage-8006/target/
+/spring-cloud-alibaba-sentinel-service-8401/target/
